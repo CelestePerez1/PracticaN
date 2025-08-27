@@ -1,2 +1,7 @@
 Dame de comer Celeste
+<<<<<<< HEAD
 xd quien fue
+=======
+xd quien fue
+Acuso a Akira Kurusu
+>>>>>>> parent of 2527c37 (Dejame copiar el archivo)
