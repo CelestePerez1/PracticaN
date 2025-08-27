@@ -2,3 +2,4 @@ hola sin modificar
 Josue tiene tres nombres
 Adrian lleva una camisa azul
 Josael es sarcastico
+Miguel es blanco
